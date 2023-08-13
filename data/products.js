@@ -656,5 +656,37 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "22L Tech backpack",
+    rating: {
+      stars: 4,
+      count: 6345
+    },
+    priceCents: 6500,
+    keywords: [
+      "sweaters",
+      "hoodies",
+      "apparel",
+      "mens"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "Full size 12 inch umbrella",
+    rating: {
+      stars: 5,
+      count: 4892
+    },
+    priceCents: 1500,
+    keywords: [
+      "sweaters",
+      "hoodies",
+      "apparel",
+      "mens"
+    ]
   }
 ];
